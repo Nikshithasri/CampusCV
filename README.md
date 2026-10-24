@@ -69,6 +69,16 @@ Campus CV is built using modern web technologies:
 - **Vercel** – Deployment  
 
 ---
+## 🤝 Contributing
+
+Contributions and suggestions to improve CampusCV are welcome.
+
+If you find a bug or have an idea for an improvement:
+1. Open an issue describing the problem or suggestion.
+2. Fork the repository or create a branch.
+3. Submit a pull request with a clear description of your changes.
+
+Thank you for helping improve CampusCV!
 
 ## 🛠 Run Locally
 
